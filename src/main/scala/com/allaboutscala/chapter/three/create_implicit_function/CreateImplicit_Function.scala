@@ -10,6 +10,9 @@ package com.allaboutscala.chapter.three.create_implicit_function
   *
   * It is a good practice to encapsulate your implicit functions and values into an Object or a Package Object.
   *
+  * http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-implicit-function/
+  *
+  *
   */
 object CreateImplicit_Function extends App{
 
@@ -41,6 +44,7 @@ object CreateImplicit_Function extends App{
 
   import DonutConverstions._
 
+
   //As part of the import expression, we are using the wildcard operator _ which will import any values or implicit functions.
 
   //4. How to create String values
@@ -58,7 +62,9 @@ object CreateImplicit_Function extends App{
   println(s"Is Vanilla Donut my favorite Donut = ${vanillaDonut.isFavoriteDonut}")
 
   /*The custom isFavoriteDonut() function looks built-into the String class.
+
   However, we did not have to manually modify the source code of the String class.
+
   Instead, we've used the secret powers of Scala's implicit function to extend the String class.*/
  //It is a good practice to encapsulate your implicit functions and values into an Object or a Package Object.
 
