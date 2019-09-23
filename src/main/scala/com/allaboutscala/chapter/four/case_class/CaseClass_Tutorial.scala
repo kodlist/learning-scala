@@ -13,7 +13,7 @@ package com.allaboutscala.chapter.four.case_class
   * A case class also comes with a handy copy() method which you can use to copy an object and override any field.
     In return, the copy() method will create new instances of the given object.
 
-
+    // also see TypeClass_Tutorial
   */
 object CaseClass_Tutorial extends App{
 
@@ -55,7 +55,7 @@ object CaseClass_Tutorial extends App{
 
   println("\nStep 5: How to define the hashCode and equals method for Donut object")
   val shoppingCart: Map[Donut, Int] = Map(vanillaDonut -> 4, glazedDonut -> 3)
-
+  // also see TypeClass_Tutorial
   println(s"All items in shopping cart = ${shoppingCart}")
   println(s"Quantity of vanilla donuts in shopping cart = ${shoppingCart(vanillaDonut)}")
   println(s"Quantity of glazed donuts in shopping cart = ${shoppingCart(glazedDonut)}")

@@ -16,6 +16,9 @@ package com.allaboutscala.chapter.four.class_inheritance_abstract_class
   * http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-type-class/
   *
   * also see CompanionObject_Tutorial.scala
+  *
+  * also see CaseClass_Tutorial
+  *
   */
 object TypeClass_Tutorial extends App{
 
@@ -73,6 +76,7 @@ object TypeClass_Tutorial extends App{
 
   }
 
+  // also see CaseClass_Tutorial while reading this.
 
   //6. How to create instances or objects of ShoppingCart class
 
