@@ -22,6 +22,11 @@ object Declarations {
 
     println(s"ddddd $x")
 
+    var i: Int = 22
+    i = 44;
+
+    //x = "rr"; //reasignment is not possible for val
+
 
   }
 

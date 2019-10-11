@@ -9,5 +9,7 @@ libraryDependencies ++= Seq (
   "com.typesafe.scala-logging" %% "scala-logging" % "3.9.2",
   "ch.qos.logback" % "logback-classic" % "1.2.3",
   "joda-time" % "joda-time" % "2.9.3",
-  "org.joda" % "joda-convert" % "1.8"
+  "org.joda" % "joda-convert" % "1.8",
+  "org.scalactic" %% "scalactic" % "3.0.8",
+  "org.scalatest" %% "scalatest" % "3.0.8" % "test"
 )

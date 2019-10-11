@@ -19,19 +19,29 @@ object Func_implicit_parameter extends App{
   println(s"Step 1: How to define a function with an implicit parameter")
 
 
-  def totalCost(donutType: String, quantity: Int)(implicit discount: Double): Double = {
+  def totalCost(donutType: String, quantity: Int)(implicit discountx: Double): Double = {
     println(s"Calculating the price for $quantity $donutType")
-    val totalCost = 2.50 * quantity * (1 - discount)
+    println(s" discount is $discountx")
+    val totalCost = 10 * quantity * (1 - discountx)
     totalCost
   }
 
-  println("\nStep 2: How to define an implicit value")
-  implicit val discount: Double = 0.1
-  println(s"All customer will receive a ${discount * 100}% discount")
+ /* println("\nStep 2: How to define an implicit value")
+  implicit val discount1: Double = 0.2
+  println(s"All customer will receive a ${discount1 * 100}% discount")
+  implicit val discount2: Double = 0.1
+  println(s"All customer will receive a ${discount2 * 100}% discount")*/       // this will throw runtime error: ambiguous implicit values, there needs to be only one implicit value
+
+  implicit val discount1: Double = 0.2
+  println(s"All customer will receive a ${discount1 * 100}% discount")
 
   //3. How to call a function which has an implicit parameter
   println("\nStep 3: How to call a function which has an implicit parameter")
-  println(s"""Total cost with discount of 5 Glazed Donuts = ${totalCost("Glazed Donut", 5)}""")
+  println(s"""Total cost with discount of 10 Glazed Donuts = ${totalCost("Glazed Donut", 10)}""")
+
+
+ /* implicit val discount2: Double = 0.1
+  println(s"All customer will receive a ${discount2 * 100}% discount")*/
 
  /* You did not have to manually pass-through the discount value when calling the totalCost() function.
   The Scala compiler will look for an implicit value of type Double for the discount implicit parameter which you've defined in Step 2.

@@ -1,11 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_one/Tutorial_05_Collection_Test.scala" line="15" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="51c2d8bf-4723-4fc5-a8dd-87c19c45d9d7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/eight/functions_for_mutable_immutable_ds_2/MinByFunction.scala" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$12f6536ad4e6ccef2784$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$12f6536ad4e6ccef2784$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$12f6536ad4e6ccef2784$$anonfun$$sbtdef$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$12f6536ad4e6ccef2784$$anonfun$$sbtdef$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$12f6536ad4e6ccef2784$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$12f6536ad4e6ccef2784.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$12f6536ad4e6ccef2784.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$d8fcefd68bdf0057b47b$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$d8fcefd68bdf0057b47b$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$d8fcefd68bdf0057b47b.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$d8fcefd68bdf0057b47b.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/learning-scala.iml" afterPath="$PROJECT_DIR$/.idea/modules/learning-scala.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/case_class/CaseClass_Tutorial.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/case_class/CaseClass_Tutorial.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/class_inheritance_abstract_class/TypeClass_Tutorial.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/class_inheritance_abstract_class/TypeClass_Tutorial.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/covariance_type_class/Covariance_Tutorial.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/covariance_type_class/Covariance_Tutorial.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/learning-scala-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/learning-scala-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/learning-scala-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/learning-scala-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-docs.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-sources.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-test.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-learning-scala-build-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/classes_in_scala/SimpleClass_Tutorial.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/classes_in_scala/SimpleClass_Tutorial.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/seven/mutable_collection/MutableArrayStack_Tutorial.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/seven/mutable_collection/MutableArrayStack_Tutorial.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/seven/mutable_collection/MutableArray_Tutorial.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/seven/mutable_collection/MutableArray_Tutorial.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/three/function_with_implicit_params/Func_implicit_parameter.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/three/function_with_implicit_params/Func_implicit_parameter.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/three/functions_with_val_not_def/PassingValAsFuncToHigherOrderFunction.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/three/functions_with_val_not_def/PassingValAsFuncToHigherOrderFunction.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/two/caseclass/CaseClass.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/two/caseclass/CaseClass.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/two/declartions/Declarations.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/two/declartions/Declarations.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/two/enumerations/Enumeration.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/two/enumerations/Enumeration.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,31 +79,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MutableArrayBuffer_Tutorial.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/seven/mutable_collection/MutableArrayBuffer_Tutorial.scala">
+      <file leaf-file-name="GeneralCheatSheet.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/cheatsheat/GeneralCheatSheet.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1116">
-              <caret line="62" column="52" lean-forward="false" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MutableArrayStack_Tutorial.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/seven/mutable_collection/MutableArrayStack_Tutorial.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MutableArray_Tutorial.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/seven/mutable_collection/MutableArray_Tutorial.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
-              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+            <state relative-caret-position="490">
+              <caret line="80" column="37" lean-forward="false" selection-start-line="80" selection-start-column="37" selection-end-line="80" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -86,57 +109,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/classes_in_scala/SimpleClass_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/companion_objects/CompanionObjectAsFactory_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/companion_objects/CompanionObjectFields_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/singleton_objects/SingletonObject_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/three/create_implicit_function/CreateImplicit_Function.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/implicit_class/ImplicitClass_Tutorial.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/eight/functions_for_mutable_immutable_ds_3/UnionFunction.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/eight/functions_for_mutable_immutable_ds_4/UnZipFunction.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/eight/functions_for_mutable_immutable_ds_4/UnZip3Function.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/eight/functions_for_mutable_immutable_ds_4/ViewFunction.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/eight/functions_for_mutable_immutable_ds_4/WithFilterFunction.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/eight/functions_for_mutable_immutable_ds_4/ZipFunction.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/eight/functions_for_mutable_immutable_ds_4/ZipWithIndexFunction.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_01_Function_With_Future_Return_Type.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_03_Chain_Futures_FlatMap.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_04_Chain_Futures_For_Comprehension.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_05_Future_Option_With_For_Comprehension.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_06_Future_Option_Map.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_07_Composing_Futures.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_08_Future_Sequence.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_09_Future_Traverse.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_10_Future_FoldLeft.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_11_Future_ReduceLeft.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_12_Future_FirstCompletedOf.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_13_Future_Zip.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_14_Future_ZipWith.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_16_Future_Configure_ThreadPool.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_15_Future_AndThen.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_17_Future_Recover.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_18_Future_RecoverWith.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_19_Future_FallbackTo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_20_Future_Promise.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/unittest/unitest_one/Tutorial_02_Equality_Test.scala" />
         <option value="$PROJECT_DIR$/build.sbt" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/package.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/package_object/PackageObject_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/class_inheritance_abstract_class/CaseClassInheritance_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/type_aliasing/TypeAlias_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/companion_objects/CompanionObject_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/case_class/CaseClass_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/class_inheritance_abstract_class/TypeClass_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/covariance_type_class/Covariance_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/contra_variance/ContraVariance_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/five/trait_in_scala/TraitWithTypeParameters.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/five/trait_in_scala/CreateTrait.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/five/trait_in_scala/ClassToExtendMultipleTraits.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/sample/ClassToExtendMultipleTraits.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/sample/CreateTrait.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/sample/TraitWithTypeParameters.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/five/traits_in_scala/ClassToExtendMultipleTraits.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/five/traits_in_scala/CreateTrait.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/five/traits_in_scala/TraitWithTypeParameters.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/five/traits_for_dependencyinjection/TraitsForDependencyInjection.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/five/traits_for_dependencyinjection/AvoidCakePattern_DependencyInjection.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/five/use_trait_companionobjects_to_built_factorypattern/Factory_Pattern.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/List.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableListSet_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableList_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableListMap_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableMap_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableHashMap_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableTreeMap_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableQueue_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableSequence_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableSet_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableHashSet_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableTreeSet_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableSortedSet_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableBitSet_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableStack_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableStream_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableVector_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/seven/mutable_collection/TwoDim_Array.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/seven/mutable_collection/ArrayUsingTabulateFunction.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/seven/mutable_collection/ArrayUsingRange.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/seven/mutable_collection/MutableArray_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/seven/mutable_collection/MutableArrayBuffer_Tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/seven/mutable_collection/MutableArrayStack_Tutorial.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/allaboutscala/unitest_one/Tutorial_02_Equality_Test.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/allaboutscala/unitest_one/Tutorial_03_Length_Test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/unitest/Tutorial_03_Length_Test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/unitest/Tutorial_02_Equality_Test.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_one/Tutorial_02_Equality_Test.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_one/Tutorial_03_Length_Test.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_one/Tutorial_04_Boolean_Test.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_one/Tutorial_05_Collection_Test.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_one/Tutorial_06_Type_Test.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_one/Tutorial_07_Exception_Test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/three/function_currying/FunctionWithCurriedParameterGroups.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_one/Tutorial_08_Private_Method_Test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_02_Non_Blocking_Future_Result.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_one/Tutorial_09_Future_Test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/java_scala_collection/java_collection_to_scala_collection/CollectionCheatSheet.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/cheatsheat/CollectionCheatSheet.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/two/enumerations/Enumeration.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/allaboutscala/cheatsheat/GeneralCheatSheet.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_two/SetSuite.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_two/SetSpec.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_two/SetSpec_A.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_two/SetSpec_B.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_two/TVSetSpec.scala" />
       </list>
     </option>
   </component>
@@ -165,6 +188,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -191,22 +215,8 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="learning-scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -214,45 +224,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chapter" />
+              <option name="myItemId" value="allaboutscala" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="two" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learning-scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="two" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="for_each" />
+              <option name="myItemId" value="unittest_two" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -270,7 +246,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -278,15 +254,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chapter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="two" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arrays" />
+              <option name="myItemId" value="allaboutscala" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -312,7 +280,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chapter" />
+              <option name="myItemId" value="allaboutscala" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -338,15 +306,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chapter" />
+              <option name="myItemId" value="allaboutscala" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="seven" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mutable_collection" />
+              <option name="myItemId" value="cheatsheat" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -372,28 +336,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chapter" />
+              <option name="myItemId" value="allaboutscala" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="seven" />
+              <option name="myItemId" value="chapter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://C:/Users/mkoduri/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/App.scala" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java8exam" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mkoduri\IdeaProjects\learning-scala\src\test\scala\com\allaboutscala" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -407,15 +375,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MutableArrayBuffer_Tutorial">
-    <configuration default="false" name="MutableArray_Tutorial" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.GeneralCheatSheet">
+    <configuration default="false" name="Tutorial_08_Private_Method_Test.Example of testing private method should be valid" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="learning-scala" />
+      <setting name="path" value="com.allaboutscala.unittest_one.Tutorial_08_Private_Method_Test" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="Example of testing private method should be valid" />
+      <setting name="testKind" value="Test name" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Tutorial_02_Non_Blocking_Future_Result" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.allaboutscala.chapter.seven.mutable_collection.*" />
+          <option name="PATTERN" value="com.allaboutscala.chapter.nine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.allaboutscala.chapter.seven.mutable_collection.MutableArray_Tutorial" />
+      <option name="MAIN_CLASS_NAME" value="com.allaboutscala.chapter.nine.Tutorial_02_Non_Blocking_Future_Result" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -428,14 +415,33 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TwoDim_Array" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="Tutorial_09_Future_Test.Example of testing asynchronous futures should be valid" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="learning-scala" />
+      <setting name="path" value="com.allaboutscala.unittest_one.Tutorial_09_Future_Test" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="Example of testing asynchronous futures should be valid" />
+      <setting name="testKind" value="Test name" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CollectionCheatSheet" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.allaboutscala.chapter.seven.mutable_collection.*" />
+          <option name="PATTERN" value="com.allaboutscala.java_scala_collection.java_collection_to_scala_collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.allaboutscala.chapter.seven.mutable_collection.TwoDim_Array" />
+      <option name="MAIN_CLASS_NAME" value="com.allaboutscala.java_scala_collection.java_collection_to_scala_collection.CollectionCheatSheet" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -448,54 +454,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ArrayUsingTabulateFunction" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="GeneralCheatSheet" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.allaboutscala.chapter.seven.mutable_collection.*" />
+          <option name="PATTERN" value="com.allaboutscala.cheatsheat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.allaboutscala.chapter.seven.mutable_collection.ArrayUsingTabulateFunction" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="learning-scala" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ArrayUsingRange" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.allaboutscala.chapter.seven.mutable_collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.allaboutscala.chapter.seven.mutable_collection.ArrayUsingRange" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="learning-scala" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="MutableArrayBuffer_Tutorial" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.allaboutscala.chapter.seven.mutable_collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.allaboutscala.chapter.seven.mutable_collection.MutableArrayBuffer_Tutorial" />
+      <option name="MAIN_CLASS_NAME" value="com.allaboutscala.cheatsheat.GeneralCheatSheet" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -802,24 +768,24 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MutableArray_Tutorial" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TwoDim_Array" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ArrayUsingTabulateFunction" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ArrayUsingRange" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MutableArrayBuffer_Tutorial" />
+      <item index="0" class="java.lang.String" itemvalue="ScalaTest.Tutorial_08_Private_Method_Test.Example of testing private method should be valid" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Tutorial_02_Non_Blocking_Future_Result" />
+      <item index="2" class="java.lang.String" itemvalue="ScalaTest.Tutorial_09_Future_Test.Example of testing asynchronous futures should be valid" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CollectionCheatSheet" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GeneralCheatSheet" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MutableArrayBuffer_Tutorial" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ArrayUsingRange" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ArrayUsingTabulateFunction" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TwoDim_Array" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MutableArray_Tutorial" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GeneralCheatSheet" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CollectionCheatSheet" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.Tutorial_09_Future_Test.Example of testing asynchronous futures should be valid" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Tutorial_02_Non_Blocking_Future_Result" />
+        <item index="4" class="java.lang.String" itemvalue="ScalaTest.Tutorial_08_Private_Method_Test.Example of testing private method should be valid" />
       </list>
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1568114932225" />
+    <option name="lastUpdateTimestamp" value="1570443676410" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -861,6 +827,38 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Tutorial_07_Exception_Test_Exception_thrown_by_method_printName()_should_contain_message_Some_Error - 2019.10.07 at 19h 57m 16s.xml">
+      <configuration name="Tutorial_07_Exception_Test.Exception thrown by method printName() should contain message Some Error" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tutorial_07_Exception_Test_Exception_thrown_by_method_printName()_should_contain_message_Some_Error - 2019.10.07 at 19h 58m 32s.xml">
+      <configuration name="Tutorial_07_Exception_Test.Exception thrown by method printName() should contain message Some Error" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tutorial_07_Exception_Test_Exception_thrown_by_method_printName()_should_contain_message_Some_Error_using_ScalaTest_should_have_message_methods - 2019.10.07 at 19h 58m 51s.xml">
+      <configuration name="Tutorial_07_Exception_Test.Exception thrown by method printName() should contain message Some Error using ScalaTest should have message methods" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tutorial_07_Exception_Test_Method_DonutStore_printName()_should_throw_IllegalStateException - 2019.10.07 at 19h 55m 43s.xml">
+      <configuration name="Tutorial_07_Exception_Test.Method DonutStore.printName() should throw IllegalStateException" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tutorial_07_Exception_Test_Method_DonutStore_printName()_should_throw_IllegalStateException_Exception_thrown_by_method_printName()_should_contain_message_Some_Error - 2019.10.07 at 19h 56m 49s.xml">
+      <configuration name="Tutorial_07_Exception_Test.Method DonutStore.printName() should throw IllegalStateException&#10;Exception thrown by method printName() should contain message Some Error" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tutorial_08_Private_Method_Test_Example_of_testing_private_method_should_be_valid - 2019.10.08 at 17h 30m 11s.xml">
+      <configuration name="Tutorial_08_Private_Method_Test.Example of testing private method should be valid" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tutorial_09_Future_Test_Example_of_testing_asynchronous_futures_should_be_valid - 2019.10.08 at 18h 07m 46s.xml">
+      <configuration name="Tutorial_09_Future_Test.Example of testing asynchronous futures should be valid" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tutorial_09_Future_Test_Example_of_testing_asynchronous_futures_should_be_valid - 2019.10.08 at 18h 09m 09s.xml">
+      <configuration name="Tutorial_09_Future_Test.Example of testing asynchronous futures should be valid" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tutorial_09_Future_Test_Example_of_testing_asynchronous_futures_should_be_valid - 2019.10.08 at 18h 10m 08s.xml">
+      <configuration name="Tutorial_09_Future_Test.Example of testing asynchronous futures should be valid" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tutorial_09_Future_Test_Example_of_testing_asynchronous_futures_should_be_valid - 2019.10.08 at 18h 12m 10s.xml">
+      <configuration name="Tutorial_09_Future_Test.Example of testing asynchronous futures should be valid" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -872,7 +870,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -892,11 +889,11 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3954496" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34777898" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20213333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -964,354 +961,350 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/classes_in_scala/ClassCreation.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/singleton_objects/SingletonObject_Tutorial.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/eight/functions_for_mutable_immutable_ds_4/ZipWithIndexFunction.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="30" column="2" lean-forward="false" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+        <state relative-caret-position="480">
+          <caret line="31" column="2" lean-forward="false" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/three/create_implicit_function/CreateImplicit_Function.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/eight/functions_for_mutable_immutable_ds_4/ZipFunction.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        <state relative-caret-position="138">
+          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/implicit_class/ImplicitClass_Tutorial.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/eight/functions_for_mutable_immutable_ds_4/WithFilterFunction.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        <state relative-caret-position="390">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/package_object/PackageObject_Tutorial.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/eight/functions_for_mutable_immutable_ds_4/ViewFunction.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="426">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/eight/functions_for_mutable_immutable_ds_4/UnZip3Function.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="174">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/package.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="15" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/three/define_use_functions/DefineAndUseFunctions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-191">
-          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/classes_in_scala/SimpleClass_Tutorial.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/companion_objects/CompanionObjectFields_Tutorial.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-155">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/companion_objects/CompanionObjectAsFactory_Tutorial.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/companion_objects/CompanionObject_Tutorial.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/covariance_type_class/Covariance_Tutorial.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="85" column="22" lean-forward="false" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/contra_variance/ContraVariance_Tutorial.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/eight/functions_for_mutable_immutable_ds_4/UnZipFunction.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <caret line="11" column="126" lean-forward="false" selection-start-line="11" selection-start-column="126" selection-end-line="11" selection-end-column="126" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/five/trait_in_scala/use_traits_for_dependencyinjection/ss.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/five/traits_in_scala/CreateTrait.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_01_Function_With_Future_Return_Type.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        <state relative-caret-position="228">
+          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/five/traits_in_scala/TraitWithTypeParameters.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_04_Chain_Futures_For_Comprehension.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        <state relative-caret-position="468">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/five/traits_in_scala/ClassToExtendMultipleTraits.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_05_Future_Option_With_For_Comprehension.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="192">
+          <caret line="24" column="39" lean-forward="false" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/five/traits_for_dependencyinjection/TraitsForDependencyInjection.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_07_Composing_Futures.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="908">
-          <caret line="126" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+        <state relative-caret-position="12">
+          <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/case_class/CaseClass_Tutorial.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_08_Future_Sequence.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-288">
-          <caret line="29" column="82" lean-forward="false" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="82" />
+        <state relative-caret-position="264">
+          <caret line="58" column="62" lean-forward="false" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/class_inheritance_abstract_class/TypeClass_Tutorial.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_09_Future_Traverse.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="78" column="52" lean-forward="false" selection-start-line="78" selection-start-column="52" selection-end-line="78" selection-end-column="52" />
+        <state relative-caret-position="246">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="42" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/five/traits_for_dependencyinjection/AvoidCakePattern_DependencyInjection.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_10_Future_FoldLeft.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="711">
-          <caret line="122" column="15" lean-forward="false" selection-start-line="122" selection-start-column="2" selection-end-line="122" selection-end-column="15" />
+        <state relative-caret-position="462">
+          <caret line="53" column="2" lean-forward="false" selection-start-line="53" selection-start-column="2" selection-end-line="53" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/five/use_trait_companionobjects_to_built_factorypattern/Factory_Pattern.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_11_Future_ReduceLeft.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="462">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/class_inheritance_abstract_class/CaseClassInheritance_Tutorial.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_14_Future_ZipWith.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        <state relative-caret-position="426">
+          <caret line="57" column="1" lean-forward="false" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/two/tuples/Tuples.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_15_Future_AndThen.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="31" column="100" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="31" selection-end-column="100" />
+        <state relative-caret-position="228">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/four/type_aliasing/TypeAlias_Tutorial.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_16_Future_Configure_ThreadPool.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="66" column="45" lean-forward="false" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
+        <state relative-caret-position="174">
+          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/package.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_17_Future_Recover.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="102" column="7" lean-forward="false" selection-start-line="102" selection-start-column="7" selection-end-line="102" selection-end-column="7" />
+        <state relative-caret-position="252">
+          <caret line="14" column="58" lean-forward="false" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableTreeMap_Tutorial.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_13_Future_Zip.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="58" column="40" lean-forward="false" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+        <state relative-caret-position="462">
+          <caret line="49" column="1" lean-forward="false" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableHashMap_Tutorial.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_12_Future_FirstCompletedOf.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="300">
+          <caret line="50" column="2" lean-forward="false" selection-start-line="50" selection-start-column="2" selection-end-line="50" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableMap_Tutorial.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_19_Future_FallbackTo.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state relative-caret-position="540">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableListMap_Tutorial.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_18_Future_RecoverWith.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="37" column="46" lean-forward="true" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+        <state relative-caret-position="102">
+          <caret line="8" column="70" lean-forward="false" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableListSet_Tutorial.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_20_Future_Promise.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="46" column="33" lean-forward="false" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+        <state relative-caret-position="-336">
+          <caret line="10" column="147" lean-forward="false" selection-start-line="10" selection-start-column="147" selection-end-line="10" selection-end-column="147" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableList_Tutorial.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/unitest/unittest_two/Tutorial_02_Equality_Test.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/unittest/unitest_one/Tutorial_02_Equality_Test.scala" />
+    <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-900">
-          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableTreeSet_Tutorial.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="76" column="2" lean-forward="false" selection-start-line="76" selection-start-column="2" selection-end-line="76" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableHashSet_Tutorial.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="63" column="43" lean-forward="false" selection-start-line="63" selection-start-column="43" selection-end-line="63" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableSet_Tutorial.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="45" column="60" lean-forward="true" selection-start-line="45" selection-start-column="60" selection-end-line="45" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableSequence_Tutorial.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableQueue_Tutorial.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableBitSet_Tutorial.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="50" column="30" lean-forward="false" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableSortedSet_Tutorial.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="59" column="16" lean-forward="true" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableVector_Tutorial.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="54" column="2" lean-forward="false" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableStream_Tutorial.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableStack_Tutorial.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="40" column="59" lean-forward="false" selection-start-line="40" selection-start-column="59" selection-end-line="40" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/seven/mutable_collection/ArrayUsingTabulateFunction.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="252">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/two/arrays/CreateArray_ex1.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="41" column="12" lean-forward="true" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-          <folding />
+        <state relative-caret-position="360">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/two/for_each/ForEach.scala">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_two/Example.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-335">
-          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        <state relative-caret-position="90">
+          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/seven/mutable_collection/TwoDim_Array.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="15" column="70" lean-forward="true" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/seven/mutable_collection/ArrayUsingRange.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="69" column="0" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="69" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/seven/mutable_collection/MutableArray_Tutorial.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/seven/mutable_collection/MutableArrayBuffer_Tutorial.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1116">
-          <caret line="62" column="52" lean-forward="false" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/seven/mutable_collection/MutableArrayStack_Tutorial.scala">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_one/Tutorial_05_Collection_Test.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_one/Tutorial_07_Exception_Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="55" column="3" lean-forward="true" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/three/partial_function_trait/CreatePartialFunctionWithPartialFunctionTrait.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/three/function_currying/FunctionWithCurriedParameterGroups.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/three/higher_order_function/HigherOrderFunction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/six/immutable_collection/ImmutableListMap_Tutorial.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248">
+          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_03_Chain_Futures_FlatMap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_06_Future_Option_Map.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/nine/Tutorial_02_Non_Blocking_Future_Result.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_one/Tutorial_09_Future_Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_one/Tutorial_08_Private_Method_Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="47" column="3" lean-forward="true" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/cheatsheat/CollectionCheatSheet.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_one/Tutorial_04_Boolean_Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_one/Tutorial_06_Type_Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_one/Tutorial_02_Equality_Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_two/SetSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="119" lean-forward="false" selection-start-line="28" selection-start-column="119" selection-end-line="28" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_two/SetSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="57" lean-forward="false" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_two/SetSpec_A.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="78" lean-forward="false" selection-start-line="8" selection-start-column="78" selection-end-line="8" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/chapter/two/enumerations/Enumeration.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_one/Tutorial_03_Length_Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_two/SetSpec_B.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/allaboutscala/unittest_two/TVSetSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/allaboutscala/cheatsheat/GeneralCheatSheet.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="80" column="37" lean-forward="false" selection-start-line="80" selection-start-column="37" selection-end-line="80" selection-end-column="37" />
           <folding />
         </state>
       </provider>

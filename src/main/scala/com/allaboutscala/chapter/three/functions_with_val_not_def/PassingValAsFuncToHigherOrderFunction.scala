@@ -33,8 +33,9 @@ object PassingValAsFuncToHigherOrderFunction extends App{
   def totalCostWithDiscountFunctionParameter(donutType: String)(quantity: Int)(f: Double => Double): Double = {
     println(s"Calculating total cost for $quantity $donutType")
     val totalCost = 2.50 * quantity   /// note, totalCost will be passed into our function
-    println(s"totalcost   :  ${ f(totalCost)}")
-    f(totalCost)
+    println(s"totalcost  before discount :  $totalCost")
+    println(s"totalcost  after discount :  ${ f(totalCost)}")
+    f(totalCost)   // in scala you dont need return stmt. so this function is returing the outcome of f(totalCost) . see line 51, we passed anonymous function.and see line 55
   }
 
 
@@ -47,7 +48,7 @@ object PassingValAsFuncToHigherOrderFunction extends App{
   //we will pass through an anonymous function which will apply the discount logic to the totalCost value as shown below:
   // note: totalCost - this var is nothing to do with totalCost in totalCostWithDiscountFunctionParameter() function
   println("\nStep 3: How to call higher order function and pass an anonymous function as parameter")
-  val totalCostOf5Donuts = totalCostWithDiscountFunctionParameter("Glazed Donut")(5){totalCost =>
+  val totalCostOf5Donuts = totalCostWithDiscountFunctionParameter("Glazed Donut")(5){  totalCost =>
     val discount = 2 // assume you fetch discount from database
     totalCost - discount
   }

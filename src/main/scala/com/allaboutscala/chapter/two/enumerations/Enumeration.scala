@@ -6,6 +6,7 @@ package com.allaboutscala.chapter.two.enumerations
   * If you have used Java or .NET in the past, I'm pretty sure that you have used the enum keyword to define your enumerations.
     But in Scala there is no enum keyword. Instead, Scala provides an Enumeration class which you can extend in order to create your enumerations.
 
+    Extend the scala.Enumeration class to create your Scala enumeration:
 
   */
 object Enumeration extends App{

@@ -47,7 +47,8 @@ object MutableArray_Tutorial extends App{
   array3(0)(1) = "Donut"
   array3(1)(0) = "Strawberry"
   array3(1)(1) = "Donut"
-  println(s"Elements of 2 dimensional array = ${array3.deep.toList}")
+  println(s"Elements of 2 dimensional array not in list = "+ array3.deep);
+  println(s"Elements of 2 dimensional array in list = ${array3.deep.toList}")
 
 
 
@@ -90,6 +91,7 @@ object MutableArray_Tutorial extends App{
 
   println("\nStep 14: How to check if two Arrays are equal using deep function and == ")
   println(s"using deep function = ${array1.deep == arrayToCompare.deep}")
+  
 
 
 }

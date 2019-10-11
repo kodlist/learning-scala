@@ -33,6 +33,7 @@ object SimpleClass_Tutorial extends App{
   println("\nStep 4: How to access the properties of class Donut")
   /*glazedDonut.name
   glazedDonut.productCode*/
+  //println(s"Vanilla Donut name field = ${vanillaDonut.name}")
 
   //You will get a compiler error if you try to access either the name or productCode properties from the donut objects.
   //Sure you could define getter functions to expose these properties, but
