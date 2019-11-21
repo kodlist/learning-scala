@@ -29,6 +29,7 @@ object HigherOrderFunction_CallBackParam extends App{
   // calling the same with empty anonymous function
   printReport(() => {}) // Not that elegant.
 
+  printReport(() => {}) // Not that elegant.
   //3. How to call a function without providing its callback parameter
   println("\nStep 3: How to call a function without providing its callback parameter")
   //printReport() // You get compile time error

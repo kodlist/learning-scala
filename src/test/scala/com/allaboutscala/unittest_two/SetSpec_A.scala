@@ -16,7 +16,7 @@ package com.allaboutscala.unittest_two
 import org.scalatest.FunSpec
 
 
-class SetSpec_A FunSpec {
+class SetSpec_A extends FunSpec {
 
   describe("A Set") {
   describe("when empty") {

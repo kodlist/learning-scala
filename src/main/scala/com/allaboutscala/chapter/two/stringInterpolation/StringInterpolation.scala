@@ -12,6 +12,9 @@ object StringInterpolation extends App{
 
   println("Step 1: Using String interpolation to print a variable")
   val favoriteDonut: String = "Glazed Donut"
+
+  //without interpolation
+  println(s"My favorite donut " + favoriteDonut)
   println(s"My favorite donut = $favoriteDonut")
 
 
